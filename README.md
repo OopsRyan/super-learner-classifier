@@ -8,4 +8,5 @@ More details can be found in the jupyter notebook and the assignment instruction
 
 [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist "Zalando's Fashion MNIST") was used as the dataset.
 
+Below is the super learner's structure.
 ![Super Learner's structure](https://github.com/OopsRyan/super-learner-classifier/blob/master/references/super-learner-structure.jpg "structure")
